@@ -4,4 +4,4 @@ This is a online banking system, where users can open new account, withdraw, dep
 Includes all needed SQL queries for the project in the SQL File.
 
 
-For help contact me on my email : shreyjain3245@gmail.com
+For help contact me on my email : siddhantgupta021295@gmail.com
